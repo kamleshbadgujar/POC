@@ -1,0 +1,24 @@
+1. jsonplaceholder.typicode.com/posts:{
+  "id": 101
+}
+
+2. api.spoonacular.com/mealplanner/dsky/items:403 Forbidden: [error code: 1010]
+
+3. jsonplaceholder.typicode.com/todos/2345:404 Not Found: [{}]
+
+4. jsonplaceholder.typicode.com/todos/3245:404 Not Found: [{}]
+
+5. jsonplaceholder.typicode.com/todos/1:{
+  "userId": 1,
+  "id": 1,
+  "title": "delectus aut autem",
+  "completed": false
+}
+
+6. jsonplaceholder.typicode.com/todos/2:{
+  "userId": 1,
+  "id": 2,
+  "title": "quis ut nam facilis et officia qui",
+  "completed": false
+}
+

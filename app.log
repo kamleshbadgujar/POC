@@ -1,0 +1,9 @@
+2021-02-17 22:28:24,559 INFO com.poc.POC [restartedMain] Starting POC using Java 1.8.0_261 on IMCBCP326-MSD with PID 3820 (C:\Users\kamleshb2\eclipse-workspace\POC\target\classes started by KamleshB2 in C:\Users\kamleshb2\eclipse-workspace\POC)
+2021-02-17 22:28:24,560 DEBUG com.poc.POC [restartedMain] Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-17 22:28:24,561 INFO com.poc.POC [restartedMain] No active profile set, falling back to default profiles: default
+2021-02-17 22:28:25,169 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-02-17 22:28:25,170 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-02-17 22:28:25,855 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-02-17 22:28:25,902 DEBUG com.poc.serviceimpl.FileReaderImpl [restartedMain] called rest api
+2021-02-17 22:28:25,902 DEBUG com.poc.serviceimpl.FileReaderImpl [restartedMain] called rest api
+2021-02-17 22:28:28,595 INFO com.poc.POC [restartedMain] Started POC in 4.304 seconds (JVM running for 22.694)
